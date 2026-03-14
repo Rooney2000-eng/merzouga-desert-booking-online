@@ -1,0 +1,38 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0F172A"/>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="900" cy="170" r="92" fill="url(#sun)"/>
+  <path d="M0 520C114 494 227 434 363 434C522 434 573 515 722 515C854 515 963 455 1107 455C1141 455 1172 458 1200 466V800H0V520Z" fill="url(#duneA)"/>
+  <path d="M0 620C109 583 212 575 311 575C471 575 549 654 723 654C890 654 964 563 1122 563C1149 563 1175 566 1200 571V800H0V620Z" fill="url(#duneB)"/>
+  <path d="M394 463C410 424 444 398 489 398C537 398 571 430 590 478C595 492 601 504 609 509C621 498 631 487 650 487C672 487 690 505 695 528C701 557 693 590 707 606C713 612 721 616 729 620C746 630 760 649 760 671C760 703 734 729 698 729H447C415 729 389 707 389 679C389 659 398 643 412 632C421 625 432 619 434 609C438 597 434 582 430 569C419 531 422 486 394 463Z" fill="#231F20" fill-opacity="0.88"/>
+  <path d="M382 709H755" stroke="#2B2A2A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M428 707L420 777" stroke="#2B2A2A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M518 707L515 779" stroke="#2B2A2A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M639 707L635 779" stroke="#2B2A2A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M726 707L732 779" stroke="#2B2A2A" stroke-width="16" stroke-linecap="round"/>
+  <path d="M372 573C340 573 315 549 315 521C315 494 338 470 366 470C395 470 419 491 419 519C419 548 397 573 372 573Z" fill="#231F20" fill-opacity="0.88"/>
+  <path d="M331 533C315 527 306 515 306 500C306 474 330 456 359 456C384 456 408 470 417 493C425 513 419 536 402 548C389 558 370 560 351 555" fill="#231F20" fill-opacity="0.88"/>
+  <path d="M447 392C469 380 489 376 510 376C546 376 579 390 605 413C642 446 652 492 642 540H473C459 506 445 471 431 437C426 425 435 402 447 392Z" fill="#2B2A2A" fill-opacity="0.92"/>
+  <path d="M731 562C761 545 798 555 813 587C830 623 805 669 767 669C724 669 697 615 731 562Z" fill="#F4E1BE" fill-opacity="0.72"/>
+  <text x="86" y="118" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="64" font-weight="700">Camel Sunset</text>
+  <text x="86" y="172" fill="#FCD34D" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">GOLDEN HOUR IN MERZOUGA</text>
+  <text x="86" y="705" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28">Golden ride across the dunes at sunset</text>
+  <defs>
+    <linearGradient id="bg" x1="600" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#334155"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="900" y1="78" x2="900" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="duneA" x1="600" y1="434" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="duneB" x1="600" y1="563" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FED7AA"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>

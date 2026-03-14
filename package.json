@@ -1,0 +1,30 @@
+{
+  "name": "merzouga-desert-booking",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "type-check": "next typegen && tsc --noEmit"
+  },
+  "dependencies": {
+    "motion": "^12",
+    "next": "^16",
+    "react": "^19",
+    "react-dom": "^19",
+    "@supabase/supabase-js": "^2.53.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16",
+    "postcss": "^8",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

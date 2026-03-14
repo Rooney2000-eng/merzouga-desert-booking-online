@@ -1,0 +1,41 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#111827"/>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="900" cy="145" r="82" fill="url(#sun)"/>
+  <path d="M0 534C145 498 260 472 408 472C590 472 701 578 900 578C1020 578 1111 542 1200 512V800H0V534Z" fill="url(#duneA)"/>
+  <path d="M0 648C125 620 246 622 365 622C571 622 706 700 917 700C1028 700 1122 682 1200 660V800H0V648Z" fill="url(#duneB)"/>
+  <circle cx="365" cy="620" r="86" fill="#1F2937"/>
+  <circle cx="365" cy="620" r="54" fill="#0F172A"/>
+  <circle cx="814" cy="620" r="86" fill="#1F2937"/>
+  <circle cx="814" cy="620" r="54" fill="#0F172A"/>
+  <path d="M443 590C453 543 489 510 548 510H682C741 510 781 539 806 585L853 673H314L360 591L443 590Z" fill="#F97316"/>
+  <path d="M497 487C512 462 539 446 570 446H663C691 446 714 459 729 480L759 521H468L497 487Z" fill="#FB923C"/>
+  <rect x="557" y="407" width="112" height="48" rx="18" fill="#CBD5E1" fill-opacity="0.9"/>
+  <path d="M519 531H702V568H519V531Z" fill="#0F172A" fill-opacity="0.5"/>
+  <path d="M852 674H905" stroke="#1F2937" stroke-width="22" stroke-linecap="round"/>
+  <path d="M274 674H317" stroke="#1F2937" stroke-width="22" stroke-linecap="round"/>
+  <path d="M458 575L400 673" stroke="#1F2937" stroke-width="18" stroke-linecap="round"/>
+  <path d="M732 575L786 673" stroke="#1F2937" stroke-width="18" stroke-linecap="round"/>
+  <path d="M806 585L868 533" stroke="#1F2937" stroke-width="16" stroke-linecap="round"/>
+  <text x="78" y="108" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="62" font-weight="700">Quad Adventure</text>
+  <text x="78" y="162" fill="#FCD34D" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">FAST LINES ON THE DUNES</text>
+  <text x="78" y="711" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28">Adventure and speed across the soft dunes</text>
+  <defs>
+    <linearGradient id="sky" x1="600" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="900" y1="63" x2="900" y2="227" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="duneA" x1="600" y1="472" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA580C"/>
+      <stop offset="1" stop-color="#C2410C"/>
+    </linearGradient>
+    <linearGradient id="duneB" x1="600" y1="622" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>

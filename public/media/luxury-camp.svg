@@ -1,0 +1,40 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0B1120"/>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="930" cy="160" r="78" fill="#FFF1B2"/>
+  <circle cx="147" cy="88" r="3" fill="#FFF7ED" fill-opacity="0.7"/>
+  <circle cx="211" cy="155" r="4" fill="#FFF7ED" fill-opacity="0.7"/>
+  <circle cx="325" cy="110" r="3" fill="#FFF7ED" fill-opacity="0.8"/>
+  <circle cx="487" cy="170" r="4" fill="#FFF7ED" fill-opacity="0.75"/>
+  <circle cx="1040" cy="88" r="3" fill="#FFF7ED" fill-opacity="0.8"/>
+  <circle cx="1088" cy="238" r="4" fill="#FFF7ED" fill-opacity="0.7"/>
+  <path d="M0 604C137 578 245 522 402 522C582 522 668 618 858 618C998 618 1074 566 1200 546V800H0V604Z" fill="url(#duneA)"/>
+  <path d="M0 676C144 642 281 642 413 642C606 642 700 710 901 710C1019 710 1114 684 1200 662V800H0V676Z" fill="url(#duneB)"/>
+  <path d="M390 551L603 360L806 551V684H390V551Z" fill="#E5C99C"/>
+  <path d="M426 551L603 402L770 551V684H426V551Z" fill="#F5DEB3"/>
+  <path d="M483 557H722V684H483V557Z" fill="#CBA56D"/>
+  <path d="M558 559H644V684H558V559Z" fill="#8B5E34"/>
+  <path d="M536 621H558V684H536V621Z" fill="#DDBA7A"/>
+  <path d="M644 621H666V684H644V621Z" fill="#DDBA7A"/>
+  <path d="M501 579C521 579 537 563 537 543C537 523 521 507 501 507C481 507 465 523 465 543C465 563 481 579 501 579Z" fill="#F9E4A5" fill-opacity="0.85"/>
+  <path d="M704 579C724 579 740 563 740 543C740 523 724 507 704 507C684 507 668 523 668 543C668 563 684 579 704 579Z" fill="#F9E4A5" fill-opacity="0.85"/>
+  <path d="M279 664C279 631 305 605 338 605C371 605 397 631 397 664C397 697 371 723 338 723C305 723 279 697 279 664Z" fill="#F97316" fill-opacity="0.9"/>
+  <path d="M301 664C301 643 318 626 338 626C359 626 376 643 376 664C376 685 359 702 338 702C318 702 301 685 301 664Z" fill="#FED7AA"/>
+  <text x="82" y="110" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="60" font-weight="700">Luxury Desert Camp</text>
+  <text x="82" y="163" fill="#FCD34D" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">DINNER • FIRE • STARS • COMFORT</text>
+  <text x="82" y="713" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28">Comfort, stars and authentic desert hospitality</text>
+  <defs>
+    <linearGradient id="sky" x1="600" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172554"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="duneA" x1="600" y1="522" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A16207"/>
+      <stop offset="1" stop-color="#92400E"/>
+    </linearGradient>
+    <linearGradient id="duneB" x1="600" y1="642" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D97706"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>

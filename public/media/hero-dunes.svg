@@ -1,0 +1,46 @@
+<svg width="1600" height="960" viewBox="0 0 1600 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="960" fill="#0F172A"/>
+  <rect width="1600" height="960" fill="url(#sky)"/>
+  <circle cx="1180" cy="220" r="110" fill="url(#sun)" fill-opacity="0.95"/>
+  <circle cx="1260" cy="170" r="8" fill="#FFF2C6" fill-opacity="0.8"/>
+  <circle cx="1320" cy="210" r="5" fill="#FFF2C6" fill-opacity="0.7"/>
+  <circle cx="1090" cy="145" r="4" fill="#FFF2C6" fill-opacity="0.6"/>
+  <path d="M0 632C119 607 185 562 306 562C407 562 526 634 638 634C774 634 879 534 1015 534C1164 534 1257 608 1400 608C1483 608 1532 590 1600 562V960H0V632Z" fill="url(#dune1)"/>
+  <path d="M0 732C140 690 250 670 381 670C553 670 649 772 839 772C1001 772 1087 666 1266 666C1397 666 1491 702 1600 744V960H0V732Z" fill="url(#dune2)"/>
+  <path d="M0 832C178 794 297 786 420 786C578 786 707 850 891 850C1082 850 1167 760 1346 760C1441 760 1526 782 1600 816V960H0V832Z" fill="url(#dune3)"/>
+  <path d="M1048 621C1037 603 1008 595 990 604C974 612 968 631 971 647C975 666 988 683 1004 697C1026 716 1049 728 1076 736C1093 741 1109 744 1126 743C1143 742 1159 735 1169 722C1176 714 1180 704 1184 694C1193 670 1203 647 1212 623C1219 605 1219 583 1208 572C1196 560 1171 562 1156 573C1141 584 1133 603 1128 621C1122 644 1118 670 1116 696C1112 676 1108 657 1100 639C1093 621 1079 604 1061 600C1054 599 1051 599 1048 621Z" fill="#1E293B" fill-opacity="0.48"/>
+  <path d="M1054 620C1043 604 1025 600 1012 607C999 615 995 631 998 647C1002 664 1016 678 1033 690C1051 703 1070 713 1092 719C1109 724 1124 726 1138 722C1153 717 1165 706 1172 690C1180 671 1188 653 1196 634C1202 620 1201 601 1192 591C1182 581 1164 582 1152 591C1139 600 1132 615 1128 632C1120 665 1117 695 1119 724C1112 698 1106 670 1098 648C1091 632 1077 616 1061 614C1058 614 1056 615 1054 620Z" fill="#F8E8C7" fill-opacity="0.96"/>
+  <path d="M0 0H1600V960H0V0Z" fill="url(#fade)"/>
+  <text x="120" y="145" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="92" font-weight="700">Sahra Joy</text>
+  <text x="124" y="228" fill="#FCD34D" font-family="Arial, sans-serif" font-size="34" letter-spacing="7">MERZOUGA DESERT EXPERIENCES</text>
+  <text x="124" y="782" fill="#FFF7ED" font-family="Arial, sans-serif" font-size="44" font-weight="700">Golden dunes • warm nights • adventure</text>
+  <text x="124" y="836" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28">A Merzouga atmosphere made for memorable trips</text>
+  <defs>
+    <linearGradient id="sky" x1="800" y1="0" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="0.42" stop-color="#18212E"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="1180" y1="110" x2="1180" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="dune1" x1="800" y1="534" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#C2410C"/>
+    </linearGradient>
+    <linearGradient id="dune2" x1="800" y1="666" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <linearGradient id="dune3" x1="800" y1="760" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FED7AA"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617" stop-opacity="0.16"/>
+      <stop offset="0.52" stop-color="#020617" stop-opacity="0"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+</svg>
